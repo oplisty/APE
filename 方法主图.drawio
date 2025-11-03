@@ -10,7 +10,7 @@
         <mxCell id="YzI4RzRZMXD7CQTbj7aD-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="-130" y="50" width="440" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="YzI4RzRZMXD7CQTbj7aD-3" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;Scoring Model Training&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="YzI4RzRZMXD7CQTbj7aD-3" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;(a) Scoring Model Training&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-8.75" y="46.5" width="197.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YzI4RzRZMXD7CQTbj7aD-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;editableCssRules=.*;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjE2Ni4zMDAwMTA2ODExNTIzNCIgd2lkdGg9IjE0MS4zNDk5OTUxMzYyNjEiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMTYzLjczNzYwOTg2MzI4MTI1IDkwLjcyNjQwOTkxMjEwOTM4IDcyMy43MTE5NzUwOTc2NTYyIDg1MS40NTYwNTQ2ODc1IiBjbGFzcz0iaWNvbiI+PHBhdGggZmlsbD0iI0ZGRDA1QyIgZD0iTTY0OS40NzIgOTQyLjE4MjRIMjk2Ljg1NzZjLTczLjUyMzIgMC0xMzMuMTItNTkuNTk2OC0xMzMuMTItMTMzLjEyVjIyMy44NDY0YzAtNzMuNTIzMiA1OS41OTY4LTEzMy4xMiAxMzMuMTItMTMzLjEyaDQ1Ny40NzJjNzMuNTIzMiAwIDEzMy4xMiA1OS41OTY4IDEzMy4xMiAxMzMuMTJ2NDAxLjMwNTZsLTIzNy45Nzc2IDMxNy4wMzA0eiIvPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik02ODkuNTYxNiAzMzIuMzkwNGgtMzI1LjEyYy0yMi42MzA0IDAtNDAuOTYtMTguMzI5Ni00MC45Ni00MC45NnMxOC4zMjk2LTQwLjk2IDQwLjk2LTQwLjk2aDMyNS4xMmMyMi42MzA0IDAgNDAuOTYgMTguMzI5NiA0MC45NiA0MC45NnMtMTguMzI5NiA0MC45Ni00MC45NiA0MC45NnpNNjg5LjU2MTYgNTAyLjQ3NjhoLTMyNS4xMmMtMjIuNjMwNCAwLTQwLjk2LTE4LjMyOTYtNDAuOTYtNDAuOTZzMTguMzI5Ni00MC45NiA0MC45Ni00MC45NmgzMjUuMTJjMjIuNjMwNCAwIDQwLjk2IDE4LjMyOTYgNDAuOTYgNDAuOTZzLTE4LjMyOTYgNDAuOTYtNDAuOTYgNDAuOTZ6TTU2NC40Mjg4IDY3Mi41NjMySDM2NC40NDE2Yy0yMi42MzA0IDAtNDAuOTYtMTguMzI5Ni00MC45Ni00MC45NnMxOC4zMjk2LTQwLjk2IDQwLjk2LTQwLjk2aDE5OS45ODcyYzIyLjYzMDQgMCA0MC45NiAxOC4zMjk2IDQwLjk2IDQwLjk2cy0xOC4zMjk2IDQwLjk2LTQwLjk2IDQwLjk2eiIvPjxwYXRoIGZpbGw9IiNGQ0EyMzUiIGQ9Ik03NDMuNjI4OCA2MjUuMDQ5NmMtNTIuMDE5MiAwLTk0LjIwOCA0Mi4xODg4LTk0LjIwOCA5NC4yMDh2MjIyLjkyNDhoMC4xMDI0bDIzNy45MjY0LTMxNy4wODE2di0wLjEwMjRoLTE0My44MjA4eiIvPjwvc3ZnPg==;" parent="1" vertex="1">
@@ -283,9 +283,6 @@
         <mxCell id="m4kqFtAj2PDJp7E6L778-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="-100" y="230" width="760" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="m4kqFtAj2PDJp7E6L778-2" value="Text" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="230" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="m4kqFtAj2PDJp7E6L778-4" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Task2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="-64.33" y="92.02000000000001" width="50" height="17.96" as="geometry" />
         </mxCell>
@@ -294,6 +291,9 @@
         </mxCell>
         <mxCell id="m4kqFtAj2PDJp7E6L778-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6NVBfcHVPH84X_B-6kNq-25" target="6NVBfcHVPH84X_B-6kNq-25">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m4kqFtAj2PDJp7E6L778-9" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;(b) Question–Analysis–Diagnosis Multi-Agent&amp;nbsp; System&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="53.94" y="230" width="450" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
